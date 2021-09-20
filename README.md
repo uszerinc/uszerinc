@@ -1,2 +1,1 @@
-<h1> Welcome <h1>
-💙👋 Hello, my name is Artyom
+<h1> 👋 Welcome Hello, my name is Artyom <h1>
